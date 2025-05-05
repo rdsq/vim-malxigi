@@ -1,5 +1,7 @@
 # Malxigi-vim
 
-Estas mia unua... Kromaĵo? Mi ne scipovas Esperanton tiom bone
+Estas mia unua... Kromaĵo? Por Vim. Mi ne scipovas Esperanton tiom bone
 
-Do, kun tiu aĵo vi povas tajpi tekston uzante de x-sistemo, eniri la viduman, alklaki `m`, kaj ĝi fariĝos la kutima esperanta akfabeto!
+Do, kun tiu aĵo vi povas tajpi tekston uzante de la x-sistemo, eniri la viduman, alklaki `m`, kaj ĝi fariĝos la kutima esperanta akfabeto!
+
+Por aldoni ĝin al via redaktilo, vi povas uzi iun ajn manaĝeron, kiel `vim-plug` ekzemple
